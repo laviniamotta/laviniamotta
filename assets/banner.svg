@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E0388F"/><stop offset="1" stop-color="#7C4DFF"/></linearGradient></defs>
+<rect width="1200" height="290" rx="18" fill="#0A0A0F"/>
+<path d="M0 246H1200" stroke="#2A2A38"/>
+<path d="M920 0V246M970 0V246M1020 0V246M1070 0V246M1120 0V246" stroke="#171722" stroke-width="1"/>
+<path d="M920 50H1200M920 100H1200M920 150H1200M920 200H1200" stroke="#171722" stroke-width="1"/>
+<rect x="54" y="48" width="4" height="174" rx="2" fill="url(#g)"/>
+<text x="88" y="125" fill="#F5F5F7" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700" letter-spacing="-2">LAVÍNIA MOTA<tspan fill="#E0388F">.</tspan></text>
+<text x="91" y="172" fill="#C4C1CE" font-family="Arial,Helvetica,sans-serif" font-size="20" letter-spacing="3">ENGENHARIA DE SOFTWARE</text>
+<text x="91" y="207" fill="#9A9AAE" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="2">FULL STACK DEVELOPMENT</text>
+<text x="928" y="235" fill="#7C4DFF" font-family="monospace" font-size="13">BUILD / LEARN / REPEAT</text>
+</svg>

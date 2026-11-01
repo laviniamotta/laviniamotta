@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330">
+<rect x="1" y="1" width="1098" height="328" rx="16" fill="#111118" stroke="#393044" stroke-width="2"/>
+<text x="34" y="42" fill="#9A9AAE" font-family="monospace" font-size="13" letter-spacing="2">LANGUAGE SKILLS / 04</text>
+<g font-family="Arial,Helvetica,sans-serif">
+  <text x="36" y="101" fill="#F5F5F7" font-size="22" font-weight="700">Português</text>
+  <text x="36" y="125" fill="#9A9AAE" font-size="13">PT · IDIOMA NATIVO</text>
+  <rect x="330" y="83" width="490" height="12" rx="6" fill="#292633"/>
+  <rect x="330" y="83" width="490" height="12" rx="6" fill="#E0388F"/>
+  <text x="1048" y="96" fill="#EFA3C9" font-size="15" text-anchor="end" font-weight="700">NATIVO</text>
+
+  <text x="36" y="161" fill="#F5F5F7" font-size="22" font-weight="700">Español</text>
+  <text x="36" y="185" fill="#9A9AAE" font-size="13">ES · ESPANHOL</text>
+  <rect x="330" y="143" width="490" height="12" rx="6" fill="#292633"/>
+  <rect x="330" y="143" width="392" height="12" rx="6" fill="#7C4DFF"/>
+  <text x="1048" y="156" fill="#B9A2FF" font-size="15" text-anchor="end" font-weight="700">AVANÇADO</text>
+
+  <text x="36" y="221" fill="#F5F5F7" font-size="22" font-weight="700">Italiano</text>
+  <text x="36" y="245" fill="#9A9AAE" font-size="13">IT · ITALIANO</text>
+  <rect x="330" y="203" width="490" height="12" rx="6" fill="#292633"/>
+  <rect x="330" y="203" width="294" height="12" rx="6" fill="#7C4DFF"/>
+  <text x="1048" y="216" fill="#B9A2FF" font-size="15" text-anchor="end" font-weight="700">INTERMEDIÁRIO</text>
+
+  <text x="36" y="281" fill="#F5F5F7" font-size="22" font-weight="700">English</text>
+  <text x="36" y="305" fill="#9A9AAE" font-size="13">EN · INGLÊS</text>
+  <rect x="330" y="263" width="490" height="12" rx="6" fill="#292633"/>
+  <rect x="330" y="263" width="196" height="12" rx="6" fill="#7C4DFF"/>
+  <text x="1048" y="276" fill="#B9A2FF" font-size="15" text-anchor="end" font-weight="700">BÁSICO</text>
+</g>
+<path d="M34 63H1066" stroke="#2A2A38"/>
+</svg>

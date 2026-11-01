@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="310" viewBox="0 0 1100 310">
+<rect x="1" y="1" width="1098" height="308" rx="14" fill="#111118" stroke="#393044" stroke-width="2"/>
+<path d="M1 48H1099" stroke="#393044"/>
+<circle cx="25" cy="25" r="6" fill="#E0388F"/><circle cx="46" cy="25" r="6" fill="#7C4DFF"/><circle cx="67" cy="25" r="6" fill="#393044"/>
+<text x="94" y="30" fill="#9A9AAE" font-family="monospace" font-size="14">mindset.ts</text>
+<g font-family="monospace" font-size="17">
+<text x="34" y="91" fill="#7C4DFF">const</text><text x="101" y="91" fill="#F5F5F7"> myApproach = {</text>
+<text x="70" y="128" fill="#9A9AAE">curiosity:</text><text x="194" y="128" fill="#7ED6B1"> "always_on",</text>
+<text x="70" y="165" fill="#9A9AAE">persistence:</text><text x="224" y="165" fill="#7ED6B1"> "keep_going",</text>
+<text x="70" y="202" fill="#9A9AAE">learning:</text><text x="181" y="202" fill="#7ED6B1"> "hands_on",</text>
+<text x="70" y="239" fill="#9A9AAE">goal:</text><text x="132" y="239" fill="#7ED6B1"> "build_useful_things"</text>
+<text x="34" y="276" fill="#F5F5F7">};</text>
+</g>
+<rect x="84" y="263" width="2" height="20" fill="#E0388F"/>
+</svg>
